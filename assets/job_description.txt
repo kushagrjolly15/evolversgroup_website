@@ -1,0 +1,124 @@
+Title:Apex Developer
+Location: Topeka, KS
+Looking for developer for the maintenance and support of the APEX applications.
+It is a contract-to-hire position.
+Develop, test, debug, document and maintain application modules and object classes, using programming languages such as Oracle PL/SQL, SQL, XML, DHTML, Application Express (APEX) and JavaScript.
+Required Three years’ experience coding, testing, and debugging Application Express for Oracle (APEX), PL/SQL, SQL, HTML, XML applications.
+end
+Title:Lab Technician
+Location:Valhalla, NY
+Provide product formulation support by accurately preparing laboratory beverages and concentrates
+Maintain laboratory and sample inventory of ingredients and supplies
+Plan, conduct and coordinate production runs, manage ingredient orders, expiration, handling, prepare batch sheets, schedule and run tech center, ensure product meets specifications
+Plan, conduct and report for all work including but not limited to production runs, shelf life studies, ingredient assessments
+Required Bachelor's degree in Food Science or Scientific Field
+Prefer laboratory experiences in Food Science, Chemistry, Chemical engineering or Biochemistry. References required.
+end
+Title:Accounts Payable Analyst
+Location:Plano, TX
+Must have strong accounts payable experience, at least 2-3 years minimum.
+Assist with various projects including, but not limited to, vendor master integration, payables recovery research and resolution, aged item resolution and inquiry management.
+Work to be performed in SAP and Oracle.
+Requires advanced Excel proficiency.
+end
+Title:Accounting Analyst
+Location:Winston Salem, NC
+This position is responsible for managing/supporting multiple accounting functions within the Enterprise, including Accounts Receivable.
+Ensure timely and accurate completion of period close processes and reconciliations, including resolution of complex accounting issues
+Develop strong business knowledge to partner with other centralized groups to identify and implement accounting process changes
+Maintain a well-controlled environment through completion of internal control assessments and development of new accounting, financial and control processes
+Support daily accounting transactions, balance sheet reviews, and team-level workflow and issue resolution
+Provide financial and portfolio analysis and ad-hoc reporting to internal and external business partners
+end
+Title:Financial & Accounting Analyst
+Location:White Plains, NY
+Field Financial Reporting & Accounting – Assistant Analyst.
+Duration: 12 months.
+Bachelors degree in Accounting required
+Complete period, quarter and annual closing of the financial statements.
+Perform analytical procedures on controllable costs, including comparisons to prior period, prior year, forecast, and plan
+Prepare Field journal entries to ensure accurate financials
+Prepare periodic balance sheet reconciliations and schedules, as well as quarterly balance sheet analytics
+Maintain an adequate control environment by executing key controls
+Identify areas of opportunity for automation and simplification of Field reporting processes
+Ability to learn and utilize multiple systems including Excel, Word, Oracle, Hyperion and Business Objects
+end
+Title:Sr. Project Manager
+Location:Raleigh, NC
+Looking for PMP certified Sr. Project Manager to lead project and work with the selected COTS vendor to complete implementation of the system.
+Authoring all project management artifacts following the practices and guidelines from the PMI’s PMBOK. PMP Certification required.
+Developing the detailed project budget, and monitoring expenditures
+Serving as an IT management liaison to the business client, leading and performing hands-on analysis of the business and technical environments.
+Responsible for working with senior-level business executives, IT personnel, and business program resources to execute project requirements and manage stakeholder expectations.
+Ensure that project plans and schedules are established and maintained, ensuring that deliverables are completed timely and accurately
+Must be able to demonstrate excellent IT Project Management, negotiation, communication and problem-solving skills.
+end
+Title:Project Manager
+Location: Austin, TX
+Looking for Project Manager to manage IT-related projects initiation through closeout.
+Manage the implementation of multiple small/medium projects at the same time
+Manage cross-functional and technical teams
+Develop project plans complete with resource needs
+Create high level project plan in MS Project and assign resources
+Excellent communication skills, both verbal and written and clearly articulate complex messages and requirements
+CompTIA Project and/or PMI PMP Preferred
+end
+Title:Cyber Security Analyst
+Location: Austin, TX
+Pay Rate: $45.00/hr W2
+Looking for Cyber Security Analyst to maintain and operate a variety of security measures and software that perform cybersecurity functions such as access control, monitoring or vulnerability assessment.
+Bachelor’s degree; Major: Computer Science, Engineering, Math or equiv.; Other suitable qualifications acceptable
+9+ years of experience in cybersecurity.
+Experience with NIST Frameworks (Risk Management Framework, Cybersecurity Framework).
+Experience with security controls.
+Experience working with: SIEM, Security Monitoring and Incident Response, Threat and Vulnerability Management, End Point Security, Data Loss Prevention (DLP), Network Security
+Experience creating framework overlays based on environment, criticality, etc.
+Preferred Certification: CISSP, GIAC or similar certification
+end
+Title:Java Developer
+Location: Rockville, MD
+Fulltime Direct-Hire Position: Java Developer will perform application software design, development, systems maintenance, modification and documentation.
+Bachelor’s degree in computer science or relevant field with minimum 8 years of professional experience in full software development life cycle; or 6 years of professional experience with a related master’s degree.
+Full stack developer with hands-on experience with backend, frontend and database technologies
+Experience with J2EE using Spring framework, design patterns and open source software.
+Experience with various client and server testing frameworks like Junit, SonarQube, JaCoCo, JMock, Mockito, TestNG, Jasmine, Selenium, etc.
+Experience writing complex SQL queries on Oracle/MySQL relational databases.
+Experience with UI frameworks such as AngularJS, ReactJS, etc.
+Experience with Service Oriented Architecture (SOA), preferably RestFul
+end
+Title:PEGA Solution Architect
+Location: Rockville, MD
+This position (Contract/Direct-Hire/Contract-hire) with one of the leading companies will be responsible for the application architecture and development lifecycle process that translates business requirements into software systems, services and solutions on the Pega platform.
+Bachelor’s degree required in Computer Science, Information Systems, or related field, or equivalent combination of education and experience
+Current certification as Pega CSSA
+A minimum of 4 years of hands-on experience in Pega configuration and custom development is required
+Experienced in interpreting process models depicted in the BPMN 2.0 standard
+Experience defining the system architecture landscape, identifying gaps between current and desired end-states, and delivering a comprehensive solution that will enable achievement of the desired business outcomes
+Experience integrating Pega with different business systems and integration tools (Oracle EBS, Salesforce, Oracle databases, REST APIs, ETL, etc.)
+Understanding of case management, data modeling, data validation, information exchange, user interface design, security, performance tuning, reporting, and application testing, versioning & deployment within the Pega platform
+end
+Title:MS Dynamics System Specialist
+Location: Cary, NC
+Provide senior-level system management, administration and support to the MS Dynamic application.
+Expert skills in Microsoft Dynamics CRM and the ability to work under a tight timelines.
+Perform system administration, business and workflow process modeling, and business systems integration based on a high degree of knowledge and experience using Microsoft Dynamics framework.
+Design and add code to the repository, troubleshoot system issues and perform day-to-day administrative tasks to ensure MS Dynamics is optimized to meet business goals
+end
+Title:Test Scripts Writer
+Location: Raleigh, NC
+Analyzing business requirements for testability and completeness and developing requirements into test conditions cases and scripts.
+Development and execution of automated scripts using HP Quality Center to thoroughly test software to ensure proper operation and freedom from defects
+Reviewing test cases and other testing artifacts to ensure the accuracy and completeness of all test artifacts.
+Coordinate testing, reports and tracks testing problems by providing reproducible test cases, works with other product team members to diagnose and recreate problems as well as prioritize and implement solutions and close problem reports.
+Test script data collection and analysis.
+end
+Title:Network Manager
+Location: Raleigh, NC
+Looking for a Manager for Enterprise Network group reporting directly to CTO. Please note that we are NOT looking for a Network Engineer. This is not a technical role.
+Responsible for overseeing the enterprise network environment and all related technologies.
+10 Years of Networking Experience with 2-3 Years of People Management Experience in an Enterprise IT Role
+Manage and coordinate development and management of the enterprise LAN, WAN, Optical Network, VOIP, and ISP’s
+Responsible for negotiations, implementation, and management all software and hardware SLAs
+Develops training and continuous improvement programs for the group staff
+Personnel / salary reviews and approvals; performs annual reviews for all direct reports
+end

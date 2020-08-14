@@ -1,0 +1,2 @@
+[16-Feb-2021 09:35:48 America/Boise] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home3/evolvers/public_html/assets/php/apply_now.php on line 109
+[26-Feb-2021 21:49:26 America/Boise] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home3/evolvers/public_html/assets/php/apply_now.php on line 109
